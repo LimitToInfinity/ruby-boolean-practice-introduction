@@ -3,7 +3,7 @@
 > **Boolean** - A binary variable that can have one of two possible values, 0 (false) or 1 (true).
 > - _Oxford English Dictionary_
 
-This sections contains additional lessons on booleans
+This sections contains additional lessons on booleans and related concepts
 in Ruby. Topics in this section include:
 
 * Truthiness
