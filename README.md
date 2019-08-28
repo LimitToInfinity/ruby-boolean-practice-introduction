@@ -1,16 +1,15 @@
-# Title
+# Booleans - Additional Practice
 
-## Learning Goals
+> **Boolean** - A binary variable that can have one of two possible values, 0 (false) or 1 (true).
+> - _Oxford English Dictionary_
 
--SWBAT 1
--SWBAT 2
+This sections contains additional lessons on booleans
+in Ruby. Topics in this section include:
 
-## Introduction
+* Truthiness
+* Operators
 
-## SWBAT 1
+In addition, here are some additional resources related to booleans:
 
-## SWBAT 2
-
-## Conclusion
-
-## Resources
+* [Boolean Expression Practice - Ruby Monk](http://www.rubymonk.com/learning/books/1-ruby-primer/chapters/8-control-structures/lessons/43-boolean-expressions-in-ruby)
+* [Why Ruby doesn’t have a Boolean class?](https://www.rubytapas.com/2019/01/08/boolean/)
