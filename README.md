@@ -1,4 +1,4 @@
-# Booleans - Additional Practice
+# Booleans
 
 A boolean is a binary variable that can have one of two possible values,
 true or false. In Ruby, we can use true and false values to control the
